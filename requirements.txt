@@ -1,0 +1,11 @@
+pip~=23.3.2
+toml~=0.10.2
+wheel~=0.37.1
+tornado~=6.4
+setuptools~=60.2.0
+streamlit~=1.31.0
+pandas~=2.2.0
+networkx~=3.2.1
+folium~=0.15.1
+requests~=2.31.0
+scikit-learn~=1.4.0
