@@ -9,3 +9,4 @@ networkx~=3.2.1
 folium~=0.15.1
 requests~=2.31.0
 scikit-learn~=1.4.0
+streamlit-folium
